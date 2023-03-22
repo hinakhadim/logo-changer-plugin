@@ -1,0 +1,5 @@
+DEFAULT_EMAIL_LOGO_URL="https://graphicdesignjunction.com/wp-content/uploads/2020/06/logo-design-tutorial-25.jpg"
+MFE_CONFIG['LOGO_URL']="https://graphicdesignjunction.com/wp-content/uploads/2020/06/logo-design-tutorial-25.jpg"
+MFE_CONFIG['LOGO_WHITE_URL']="https://graphicdesignjunction.com/wp-content/uploads/2020/06/logo-design-tutorial-25.jpg"
+MFE_CONFIG['LOGO_TRADEMARK_URL']="https://graphicdesignjunction.com/wp-content/uploads/2020/06/logo-design-tutorial-25.jpg"
+MFE_CONFIG['FAVICON_URL']="https://graphicdesignjunction.com/wp-content/uploads/2020/06/logo-design-tutorial-25.jpg"
