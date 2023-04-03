@@ -20,6 +20,13 @@ hooks.Filters.CONFIG_DEFAULTS.add_items(
         # Each new setting is a pair: (setting_name, default_value).
         # Prefix your setting names with 'LOGO_CHANGER_'.
         ("LOGO_CHANGER_VERSION", __version__),
+        ("MFE_COURSES_MFE_APP", 
+            {   
+                "name": "xcourses_catalog",
+                "repository": "https://github.com/hinakhadim/courses_catalog_frontend",
+                "port": 3005
+            }
+        )
     ]
 )
 
